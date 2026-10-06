@@ -12,7 +12,7 @@
     <a href="https://portfolio-ezralai.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="https://github.com/ezralaics" target="_blank">
+    <a href="https://github.com/ezralai" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-ezralaics-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="mailto:your-email@example.com">
