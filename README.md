@@ -30,7 +30,7 @@
 
 - 🔭 **Focus:** Full-stack software engineering, RESTful APIs, and responsive web platforms.
 - 💡 **Core Stack:** PHP / Laravel, Vue.js, JavaScript, and modern SQL databases.
-- 🚀 **Currently Building:** Dynamic scheduling logic and productivity tools ([Smart Study Planner](https://github.com/ezralaics/smart-study-planner)).
+- 🚀 **Currently Building:** Dynamic scheduling logic and productivity tools ([Smart Study Planner](https://github.com/ezralai/smart-study-planner)).
 - 🎯 **Career Target:** Software Engineer / Full-Stack Engineer / IT Specialist roles where I can build impactful, scalable systems.
 
 <br />
@@ -77,7 +77,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>📅 <a href="https://github.com/ezralaics/smart-study-planner">Smart Study Planner</a></h4>
+      <h4>📅 <a href="https://github.com/ezralai/smart-study-planner">Smart Study Planner</a></h4>
       <p>A web-based productivity application that optimizes academic schedules. Dynamically prioritizes study sessions based on task urgency, deadlines, and student progress.</p>
       <p>
         <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" alt="Status" />
@@ -102,7 +102,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>📚 <a href="https://github.com/ezralaics/laravel-vue_course">Full-Stack Exploration</a></h4>
+      <h4>📚 <a href="https://github.com/ezralai/laravel-vue_course">Full-Stack Exploration</a></h4>
       <p>Deep-dive implementations of modern single-page and hybrid web apps using Laravel API resources and reactive Vue components.</p>
       <p>
         <img src="https://img.shields.io/badge/Focus-SPA%20%26%20Inertia-purple?style=flat-square" alt="Focus" />
@@ -121,14 +121,14 @@
 
   <!-- Streak Stats Card (OneDark Theme from your screenshot) -->
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=ezralaics&theme=onedark" alt="GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com/?user=ezralai&theme=onedark" alt="GitHub Streak Stats" />
   </a>
 
   <br /><br />
 
   <!-- GitHub Overall Stats & Most Used Languages in matching OneDark theme -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ezralaics&show_icons=true&theme=onedark&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezralaics&layout=compact&theme=onedark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ezralai&show_icons=true&theme=onedark&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezralai&layout=compact&theme=onedark" alt="Top Languages" />
 
 </div>
 
