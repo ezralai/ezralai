@@ -114,21 +114,21 @@
 <br />
 
 ---
-
 ### 📊 GitHub Activity & Streak
 
 <div align="center">
 
-  <!-- Streak Stats Card (OneDark Theme from your screenshot) -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=ezralai&theme=onedark" alt="GitHub Streak Stats" />
+  <!-- GitHub Streak Stats -->
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank" rel="noopener noreferrer">
+    <img src="https://streak-stats.demolab.com/?user=ezralai&theme=onedark&hide_border=true" alt="GitHub Streak Stats" />
   </a>
 
   <br /><br />
 
-  <!-- GitHub Overall Stats & Most Used Languages in matching OneDark theme -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ezralai&show_icons=true&theme=onedark&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezralai&layout=compact&theme=onedark" alt="Top Languages" />
+  <!-- GitHub Overall Stats & Top Languages -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ezralai&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats" />
+  &nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezralai&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" />
 
 </div>
 
