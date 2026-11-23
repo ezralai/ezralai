@@ -30,7 +30,7 @@
 
 - 🔭 **Focus:** Full-stack software engineering, RESTful APIs, and responsive web platforms.
 - 💡 **Core Stack:** PHP / Laravel, Vue.js, JavaScript, and modern SQL databases.
-- 🚀 **Currently Building:** Dynamic scheduling logic and productivity tools ([Smart Study Planner](https://github.com/ezralai/smart-study-planner)).
+- 🚀 **Currently Building:** Dynamic scheduling logic and productivity tools.
 - 🎯 **Career Target:** Software Engineer / Full-Stack Engineer / IT Specialist roles where I can build impactful, scalable systems.
 
 <br />
